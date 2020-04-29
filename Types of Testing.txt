@@ -1,0 +1,9 @@
+Unit Testing :
+1. A level of software testing where individual units/ components of a software are tested
+2. Developer
+3. Whitebox
+
+Integration Testing :
+1. A level of software testing where individual units/ components of a software are tested
+2. Testers
+3. Blackbox
