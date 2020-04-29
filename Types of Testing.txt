@@ -7,3 +7,14 @@ Integration Testing :
 1. A level of software testing where individual units/ components of a software are tested
 2. Testers
 3. Blackbox
+
+System testing : 
+1.System testing is the execution of the software in its final configuration, including integration with other software and hardware systems. It tests for security, performance
+2.Testers
+3.Blackbox
+
+Acceptance testing :
+1.The acceptance testing plan is created during the design phase and the actual testing is done after the system is fully developed and tested
+2.customers and end-users
+3.Whitebox
+
